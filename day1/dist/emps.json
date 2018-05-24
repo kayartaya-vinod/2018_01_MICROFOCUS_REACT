@@ -1,0 +1,4 @@
+[
+    {"name": "Allen smith", "salary": 4000, "dept": "admin"},
+    {"name": "John Doe", "salary": 3000, "dept": "accounting"}
+]
